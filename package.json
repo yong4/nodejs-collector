@@ -1,0 +1,25 @@
+{
+    "name": "collector-sample",
+    "version": "1.0.0",
+    "description": "sample",
+    "main": "oracle_samle.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "app-root-path": "^3.0.0",
+      "cheerio": "^1.0.0-rc.5",
+      "child_process": "^1.0.2",
+      "elasticsearch": "^16.7.2",
+      "knex": "^0.95.2",
+      "knex-mariadb": "^2.0.0",
+      "mariadb": "^2.5.3",
+      "moment": "^2.29.1",
+      "mysql2": "^2.2.5",
+      "oracledb": "^5.1.0",
+      "p-limit": "^3.1.0",
+      "sqlite3": "^5.0.2"
+    }
+  }

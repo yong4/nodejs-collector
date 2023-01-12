@@ -1,0 +1,14 @@
+{
+    "db_host": "",
+    "db_user": "",
+    "db_password": "",
+    "db_port": "0000",
+    "db_database": "",
+    "elastic_host": "",
+    "elastic_host2": "",
+    "elastic_timeout": 600000,
+    "server": "dev",
+    "oracle_user": "",
+    "oracle_password": "",
+    "oracle_connectString": "(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=0.0.0.0)(PORT=000))(CONNECT_DATA=(SERVICE_NAME=cccc)))"
+}
