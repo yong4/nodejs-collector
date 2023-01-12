@@ -1,14 +1,5 @@
 # nodejs-collector
-nodejs elasticsearch indexing example
-
-2021-03-29
-─── collector
-    ├──── config (각종 설정파일)
-    ├──── execute (색인 프로그램)
-    ├──── lib (라이브러리)
-    ├──── pasing_file (파싱 샘플 파일)
-    └──── sql (쿼리 작성파일)
-
+2021-03-29 nodejs elasticsearch indexing example
 
 node로 RDBMS 질의문을 수행하여 데이터 가공 후 Elastic에 색인하는 샘플이다.
 
